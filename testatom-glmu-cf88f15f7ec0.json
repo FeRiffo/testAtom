@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testatom-glmu",
+  "private_key_id": "cf88f15f7ec04ffd0158b8e17b80b03823e7b8b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx7c0XkGXpwSpi\nTr+h9fMoeJy87xMUZVJ/L1ZYcwnW8OQXpo3EpqOdQzHNj00TLuJZpe7EKf2P7otO\nrqj5FfU3ZNz1jOa7QdgyDMS3LIMc3xYz+wSC+NZnqALnV+QXOe2J82b80O5E6JfX\naimRonIPduCy1U09b6ZkuYdKN7vU7xEFqTLdgSvb8UdXkWgKLcCC0ne8u48iPRcw\n+d5lD9nY2EkDWDZCh1YMofyJkEaK0x6B7N2X14IZic6vGq5fGGa/nEX31KWTjUdl\nf7uDW6NFRXUqidzL6lQdD9uzatCROsRwn9bDuKZY3uej0i2gYVmchF9Uilp82oTw\nDhgos+gLAgMBAAECggEADDzv+1aaO+QRDJFKtagbYRrn+kgeBtbFQCw7AyW+dS3n\nx7H+qZpQl0jU4cT2fIL1XKHWH2CdU8teLOZEhwVknWUZnDtkb1gjDPuQguIpOSYl\npSOhzCReEuPHzK5gk4cPeIqToytNCCj7W1IDqURZa142LEwRiPqR9kxF1ZapxlvM\nVGOiyps+c5Vkdzj3gwSG4MD9y4z6p384xpo+GSKVf9PnkOO3BTmP2kB3RqZ54yM8\nBrhwLMeTEqFViP4PAaWUcDPRVSdl6LTsZ02zpMD2at2IUWgvfagFvIviVTifdZtd\nFvGOkNrPTCYCnTkpgo+QkLdhXAuWM2KAXQ3+2TLQaQKBgQDpj3gy3RZ1V/2kbG/a\nBSbTAIX47OstBhoXFxO+tzPPky8fVYPELUsOjsdmmwBIEDOmZ3QvKbECah3KuM6s\nZb0GxVDs/fMHNjEvQMUPdsfYZR5KAHsLk4XzDZBJVIXZJuObNM928eMtxnf1DQzY\nJRX0OUCbDnsJnjCoyhZiVaEWvQKBgQDDBgw+x/HMmTNpQis5edil6oA4gpvDXie3\ns4BtELvXP9hVr4lfHigYQErCDYJj5NE6ixUv/6WqLE28Yq3q24H9HW8iUyLP+eNs\nd4aw+6z16jVC9rBvPnCRMB5ZuVkMfbxOYI9C9v4Rl1gx9Kky972ivsKKliihl4nw\nKhL52bfqZwKBgQCqA6/BhsKEZKrT98Nr9vgN/IGJdBy1R43SZRAQchea8E8LBhrG\nwRmz3Sc1f3sy+eg/J2uhsT2SvmA1Y1W+lMiGlzeTbEBubXpcJU/NM+/Bi8oCoFrx\nUE/fX246kvZj3jUsk8K5mNaAScqkbP1+kXBruQlYVbAmjippk8G7jw2WGQKBgQCt\n0v0lE/drwfz1y3lVUEoOj/Xa6GbG+mvyKzbDf0+9afV7YerR8cIQ43T+gyX9vVvT\nj1XCI11YUQa0a0vScfXpUcvVTz5PGs5exiYyJxAhW7A/UDsv2/pfHgFfPXmmTYeC\nYEQwjo8jxL5iQExy1iebH+WrumzaooPaoNWrBigL7wKBgA9/aItMjF39dk4vHU7Q\nJk/TCSivvohP4MgP0hvHkvj56M+QO2Pi0uUFTbNtkaqBXxbc+sl5ayuoP0vEnagD\nQcEjgo2be8VYmPMbzb3Sv6iIbWZWTaDSmHAmuLDVAHfwbu7sQm063linorN2v7wT\n9npan1//MTEcTCKdVR4N5krZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "testatom@testatom-glmu.iam.gserviceaccount.com",
+  "client_id": "103463105289563716621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testatom%40testatom-glmu.iam.gserviceaccount.com"
+}
